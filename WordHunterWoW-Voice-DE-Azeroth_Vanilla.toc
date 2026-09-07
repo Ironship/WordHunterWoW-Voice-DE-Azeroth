@@ -1,0 +1,9 @@
+## Interface: 11509
+## Title: QuestWordHunter - German Voiceover: Azeroth
+## Notes: German quest audio for Azeroth. Needs WordHunterWoW-Voice-DE.
+## IconTexture: Interface\AddOns\WordHunterWoW-Voice-DE-Azeroth\icon
+## Author: Ironship
+## Version: 0.1.0
+## Dependencies: WordHunterWoW-Voice-DE
+
+Part.lua
